@@ -1,0 +1,5 @@
+{
+ "wood":[["ammo_light",26],["bandage",20],["pistol",12],["smg",10],["ammo_heavy",14],["grenade",8],["backpack",6],["helmet",4]],
+ "supply":[["rifle",20],["shotgun",14],["dmr",10],["armor50",18],["medkit",12],["backpack",10],["helmet",10],["ammo_heavy",6]],
+ "ground":[["pistol",12],["smg",10],["shotgun",8],["rifle",7],["dmr",3],["ammo_light",12],["ammo_heavy",10],["ammo_shell",8],["armor25",8],["bandage",8],["grenade",6],["backpack",4],["helmet",4]]
+}

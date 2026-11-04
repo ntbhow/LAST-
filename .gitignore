@@ -1,0 +1,10 @@
+.godot/
+tools/godot/
+tools/*.zip
+tools/templates/
+tools/profile/
+build/*
+!build/.gdignore
+*.tmp
+tests/*.png.import
+tests/*.log

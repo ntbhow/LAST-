@@ -1,0 +1,214 @@
+{
+  "checks": [
+    {
+      "name": "21 operators spawn",
+      "pass": true
+    },
+    {
+      "name": "Every spawn clears world collision",
+      "pass": true
+    },
+    {
+      "name": "Diagonal and axial speeds match",
+      "pass": true
+    },
+    {
+      "name": "Gun replacement preserves old magazine exactly",
+      "pass": true
+    },
+    {
+      "name": "Drop transfers ownership and selects knife",
+      "pass": true
+    },
+    {
+      "name": "Reload conserves rounds with partial reserve",
+      "pass": true
+    },
+    {
+      "name": "Backpack capacity returns excess ammo",
+      "pass": true
+    },
+    {
+      "name": "Backpack upgrade doubles capacity",
+      "pass": true
+    },
+    {
+      "name": "Loaded backpack cannot silently discard inventory",
+      "pass": true
+    },
+    {
+      "name": "Backpack drops after its load fits standard capacity",
+      "pass": true
+    },
+    {
+      "name": "Dropping damaged armor preserves fractional durability",
+      "pass": true
+    },
+    {
+      "name": "Projectile advances by speed*delta; no instant damage",
+      "pass": true
+    },
+    {
+      "name": "Projectile damages target after travel time",
+      "pass": true
+    },
+    {
+      "name": "Projectile excludes shooter collider",
+      "pass": true
+    },
+    {
+      "name": "Swept collision blocks 18000px/s bullet on 3px wall",
+      "pass": true
+    },
+    {
+      "name": "Center-to-muzzle guard blocks shot through adjacent wall",
+      "pass": true
+    },
+    {
+      "name": "Recoil and spread accumulate independently",
+      "pass": true
+    },
+    {
+      "name": "Recoil recovers over time",
+      "pass": true
+    },
+    {
+      "name": "Movement increases spread",
+      "pass": true
+    },
+    {
+      "name": "Firing is blocked while reloading",
+      "pass": true
+    },
+    {
+      "name": "Switch cancels reload without generating rounds",
+      "pass": true
+    },
+    {
+      "name": "Empty magazine blocks held fire",
+      "pass": true
+    },
+    {
+      "name": "Reload completion transfers exactly one magazine",
+      "pass": true
+    },
+    {
+      "name": "Bot sight is occluded by wall",
+      "pass": true
+    },
+    {
+      "name": "Bot sight resumes after obstacle moves",
+      "pass": true
+    },
+    {
+      "name": "Leading a moving target hits; aiming at old position misses",
+      "pass": true
+    },
+    {
+      "name": "Shotgun emits seven independent projectile states",
+      "pass": true
+    },
+    {
+      "name": "Projectile range and lifetime reclaim all pool slots",
+      "pass": true
+    },
+    {
+      "name": "Wall blocks grenade splash damage",
+      "pass": true
+    },
+    {
+      "name": "Uncovered target receives grenade falloff damage",
+      "pass": true
+    },
+    {
+      "name": "Destroyed crate emits its loot table exactly once",
+      "pass": true
+    },
+    {
+      "name": "Crate drops resolve to walkable positions",
+      "pass": true
+    },
+    {
+      "name": "Loot cannot be picked up twice in the same frame",
+      "pass": true
+    },
+    {
+      "name": "Healing reserves one item",
+      "pass": true
+    },
+    {
+      "name": "Damage cancels healing and refunds reserved item",
+      "pass": true
+    },
+    {
+      "name": "Bandage heals 25 HP after its full use timer",
+      "pass": true
+    },
+    {
+      "name": "Outside-zone damage scales with stage and delta",
+      "pass": true
+    },
+    {
+      "name": "A* finds path from building through doorway",
+      "pass": true
+    },
+    {
+      "name": "A* waypoints respect cover clearance",
+      "pass": true
+    },
+    {
+      "name": "Bot physically follows path toward safe zone",
+      "pass": true
+    },
+    {
+      "name": "Settings and cosmetic selection persist to disk",
+      "pass": true
+    },
+    {
+      "name": "Pause menu suspends simulation",
+      "pass": true
+    },
+    {
+      "name": "Resume returns to live HUD",
+      "pass": true
+    },
+    {
+      "name": "Inventory exposes real actions without pausing",
+      "pass": true
+    },
+    {
+      "name": "Customize exposes three cosmetic choices and Back",
+      "pass": true
+    },
+    {
+      "name": "Settings exposes functional audio, aim, shake and UI sliders",
+      "pass": true
+    },
+    {
+      "name": "Last opponent death sets victory",
+      "pass": true
+    },
+    {
+      "name": "Results pause the completed simulation",
+      "pass": true
+    },
+    {
+      "name": "Replay resets combatants, time and rank",
+      "pass": true
+    },
+    {
+      "name": "Replay clears projectile pool and kill feed",
+      "pass": true
+    },
+    {
+      "name": "Replay recreates clean loot and zone state",
+      "pass": true
+    },
+    {
+      "name": "Early player death produces correct placement",
+      "pass": true
+    }
+  ],
+  "failed": 0,
+  "passed": 52
+}

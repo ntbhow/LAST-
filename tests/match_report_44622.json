@@ -1,0 +1,18 @@
+{
+  "alive": 1,
+  "avg_frame_ms": 17.2639464953195,
+  "crates_broken": 3,
+  "damage": 132.0,
+  "kills": 0,
+  "p95_frame_ms": 20.3703703703704,
+  "pickups": 111,
+  "rank": 13,
+  "renderer": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "resolution": "(1920, 1080)",
+  "seconds": 350.937602919193,
+  "seed": 44622,
+  "shots": 504,
+  "speed": 1.0,
+  "worst_frame_ms": 134.660333333332,
+  "zone_stage": 5
+}

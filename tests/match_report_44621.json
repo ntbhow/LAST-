@@ -1,0 +1,18 @@
+{
+  "alive": 1,
+  "avg_frame_ms": 7.60546969382804,
+  "crates_broken": 5,
+  "damage": 16.0,
+  "kills": 1,
+  "p95_frame_ms": 9.4094603174606,
+  "pickups": 132,
+  "rank": 5,
+  "renderer": "",
+  "resolution": "(0, 0)",
+  "seconds": 254.567337269836,
+  "seed": 44621,
+  "shots": 616,
+  "speed": 8.0,
+  "worst_frame_ms": 19.064,
+  "zone_stage": 3
+}

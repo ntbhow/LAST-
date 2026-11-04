@@ -1,0 +1,7 @@
+{
+  "pistol": {"name":"P12 SIDEARM","short":"P12","ammo":"light","mag":12,"rate":0.25,"reload":1.25,"damage":22,"speed":790,"range":690,"spread":0.018,"kick":0.018,"cap":0.12,"recovery":0.16,"pellets":1,"pattern":[-0.2,0.3,-0.1,0.4],"color":"c9c9b4"},
+  "smg": {"name":"KITE / SMG","short":"KITE","ammo":"light","mag":30,"rate":0.085,"reload":1.65,"damage":12,"speed":860,"range":620,"spread":0.03,"kick":0.014,"cap":0.23,"recovery":0.19,"pellets":1,"pattern":[-0.7,0.2,0.6,0.8,-0.5,-0.3],"color":"81b4a1"},
+  "rifle": {"name":"RANGER / AR","short":"RANGER","ammo":"heavy","mag":24,"rate":0.145,"reload":1.95,"damage":24,"speed":1120,"range":1050,"spread":0.017,"kick":0.023,"cap":0.22,"recovery":0.13,"pellets":1,"pattern":[-0.3,-0.1,0.4,0.8,0.4,-0.5],"color":"dab978"},
+  "shotgun": {"name":"BREACH / SG","short":"BREACH","ammo":"shell","mag":6,"rate":0.8,"reload":2.3,"damage":12,"speed":720,"range":400,"spread":0.12,"kick":0.065,"cap":0.23,"recovery":0.17,"pellets":7,"pattern":[-0.2,0.3],"color":"ca927d"},
+  "dmr": {"name":"KESTREL / DMR","short":"KESTREL","ammo":"heavy","mag":8,"rate":0.78,"reload":2.5,"damage":58,"speed":1580,"range":1400,"spread":0.006,"kick":0.085,"cap":0.25,"recovery":0.12,"pellets":1,"pattern":[-0.2,0.2],"color":"a7b4c6"}
+}
